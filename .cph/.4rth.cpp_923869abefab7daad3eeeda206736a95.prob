@@ -1,0 +1,1 @@
+{"name":"Local: 4rth","url":"c:\\WEB PROJECT\\C++\\4rth.cpp","tests":[{"id":1725381258335,"input":"4\n2 2\n7 2\n5 3\n1000000000 1000000000","output":"1\n5\n1\n347369930"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\WEB PROJECT\\C++\\4rth.cpp","group":"local","local":true}
